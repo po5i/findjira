@@ -1,0 +1,18 @@
+<!-- BEGIN: main -->
+<div style="width:200px;font-family:tahoma;font-size:12px;" >
+    <strong>{feed.title}</strong>
+    <br /><br />
+    <!-- BEGIN: item -->
+    <div>
+        <strong><a href="{item.link.alternate.0}">{autodiscover.title}</a></strong>
+    </div>
+    <div>
+        {autodiscover.description}
+    </div>
+    <div>
+        {autodiscover.date}
+    </div>
+    <br /><br />
+    <!-- END: item -->
+</div>
+<!-- END: main -->

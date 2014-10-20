@@ -1,0 +1,31 @@
+FORMATO FINDJIRA
+
+WEB:
+
+"titulo" 		
+"raw_url" 		
+"display_url" 	
+"cache_url" 		
+"feed"				*exclusivo
+"resumen" 			
+"thumb_url" 	
+"crop_url"
+"embed_thumb"   
+"origen" 	
+"indice_ser"	
+"indice_rep"	
+
+
+IMAGE:
+
+"container_url"		
+"file_size" 		
+"file_format" 		
+"width" 			
+"height" 			
+"embed"
+
+VIDEO:
+
+"download_url" 
+"duracion" 			
